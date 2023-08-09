@@ -1,0 +1,5 @@
+// export {about} from './sections/about'
+// export {career} from './sections/career'
+// export {project} from './sections/project'
+// export {skills} from './sections/skills'
+// export {visual} from './sections/visual'
